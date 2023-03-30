@@ -1,0 +1,263 @@
+Windows Product Key: b'\xa4\x00\x00\x00\x03\x00\x00\x0000327-35123-76749-AAOEM\x00\xc9\x0c\x00\x00[TH]X19-99434\x00\x00\x00\xc9\x0c\xd0\xfa\xa3\xe8m\xaf\xbf\x9e\xc3\x81%\xb0\t\x00\x00\x00\x00\x00]\xb1rb\xf21\xac\xda\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xe4h.S'
+Windows Product ID: 00327-35123-76749-AAOEM
+
+List of installed software:
+- Python 3.10.5 Utility Scripts (64-bit)
+- Python 3.10.5 Standard Library (64-bit)
+- Python 3.10.5 pip Bootstrap (64-bit)
+- Python 3.10.5 Documentation (64-bit)
+- Python 3.10.5 Test Suite (64-bit)
+- Python 3.10.5 Tcl/Tk Support (64-bit)
+- Python 3.10.5 Development Libraries (64-bit)
+- Python 3.10.5 Core Interpreter (64-bit)
+- Python 3.10.5 Executables (64-bit)
+- Microsoft Office Project MUI (English) 2007
+- Microsoft Office Shared Setup Metadata MUI (English) 2007
+- Microsoft Office Shared 64-bit Setup Metadata MUI (English) 2007
+- Microsoft Office Office 64-bit Components 2007
+- Microsoft Office Shared 64-bit MUI (English) 2007
+- Microsoft Office Project Professional 2007
+- Microsoft Office Proofing (English) 2007
+- Microsoft Office Shared MUI (English) 2007
+- Microsoft Office Proof (English) 2007
+- Microsoft Office Proof (Spanish) 2007
+- Microsoft Office Proof (French) 2007
+- Microsoft DCF MUI (English) 2013
+- Microsoft OneNote MUI (English) 2013
+- Microsoft Office OSM MUI (English) 2013
+- Microsoft Office OSM UX MUI (English) 2013
+- Microsoft InfoPath MUI (English) 2013
+- Microsoft Access MUI (English) 2013
+- Microsoft Office Shared Setup Metadata MUI (English) 2013
+- Microsoft Excel MUI (English) 2013
+- Microsoft Office Shared 64-bit Setup Metadata MUI (English) 2013
+- Microsoft Access Setup Metadata MUI (English) 2013
+- Microsoft PowerPoint MUI (English) 2013
+- Microsoft Publisher MUI (English) 2013
+- Microsoft Outlook MUI (English) 2013
+- Microsoft Office 64-bit Components 2013
+- Microsoft Office Shared 64-bit MUI (English) 2013
+- Microsoft Groove MUI (English) 2013
+- Microsoft Word MUI (English) 2013
+- Microsoft Lync MUI (English) 2013
+- Microsoft Office Proofing (English) 2013
+- Microsoft Office Shared MUI (English) 2013
+- Microsoft Office Proofing Tools 2013 - English
+- Microsoft Office Proofing Tools 2013 - Español
+- Outils de vérification linguistique 2013 de Microsoft Office - Français
+- Microsoft Office Professional Plus 2013
+- Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.32.31332
+- Microsoft Visual C++ 2019 X86 Additional Runtime - 14.28.29913
+- Microsoft Update Health Tools
+- Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005
+- Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005
+- AudioWizard
+- Microsoft VC++ redistributables repacked.
+- ASUS Hello
+- Microsoft Visual C++ 2005 Redistributable
+- Microsoft Visual C++ 2022 X64 Additional Runtime - 14.32.31332
+- Intel(R) Trusted Connect Service Client x86
+- Intel(R) Trusted Connect Service Client x64
+- UpdateAssistant
+- Intel(R) Management Engine Components
+- Intel(R) ME UninstallLegacy
+- ASUS Device Activation
+- Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005
+- Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005
+- ASUS Live Update
+- Windows PC Health Check
+- Intel(R) Serial IO
+- Python Launcher
+- Intel(R) Chipset Device Software
+- Intel(R) Rapid Storage Technology
+- Microsoft VC++ redistributables repacked.
+- ASUS GiftBox Service
+- Update for Windows 10 for x64-based Systems (KB5001716)
+- Intel(R) Management Engine Components
+- Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.28.29913
+- WinFlash
+- Update for Windows 10 for x64-based Systems (KB4480730)
+- ATK Package (ASUS Keyboard Hotkeys)
+- Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17
+- Intel(R) Management Engine Driver
+
+List of running processes:
+- 0 System Idle Process
+- 4 System
+- 100 Registry
+- 260 WmiPrvSE.exe
+- 452 smss.exe
+- 484 RuntimeBroker.exe
+- 640 svchost.exe
+- 644 svchost.exe
+- 696 csrss.exe
+- 700 fontdrvhost.exe
+- 784 wininit.exe
+- 856 services.exe
+- 912 svchost.exe
+- 940 lsass.exe
+- 1044 svchost.exe
+- 1092 WUDFHost.exe
+- 1132 svchost.exe
+- 1220 svchost.exe
+- 1236 svchost.exe
+- 1260 WUDFHost.exe
+- 1308 winlogon.exe
+- 1312 svchost.exe
+- 1368 svchost.exe
+- 1376 svchost.exe
+- 1384 svchost.exe
+- 1480 igfxCUIService.exe
+- 1484 svchost.exe
+- 1492 svchost.exe
+- 1552 brave.exe
+- 1628 svchost.exe
+- 1716 svchost.exe
+- 1728 RuntimeBroker.exe
+- 1764 svchost.exe
+- 1780 SearchApp.exe
+- 1792 svchost.exe
+- 1932 svchost.exe
+- 2028 svchost.exe
+- 2136 svchost.exe
+- 2152 svchost.exe
+- 2176 dasHost.exe
+- 2200 svchost.exe
+- 2256 svchost.exe
+- 2296 svchost.exe
+- 2324 SystemSettings.exe
+- 2420 svchost.exe
+- 2428 svchost.exe
+- 2580 svchost.exe
+- 2592 svchost.exe
+- 2604 svchost.exe
+- 2680 svchost.exe
+- 2688 MemCompression
+- 2724 svchost.exe
+- 2764 IntelCpHDCPSvc.exe
+- 2816 taskhostw.exe
+- 2904 svchost.exe
+- 2948 svchost.exe
+- 2984 BraveCrashHandler64.exe
+- 2988 svchost.exe
+- 3080 brave.exe
+- 3084 LMS.exe
+- 3092 svchost.exe
+- 3148 msiexec.exe
+- 3160 ICEsoundService64.exe
+- 3212 svchost.exe
+- 3220 svchost.exe
+- 3228 svchost.exe
+- 3280 svchost.exe
+- 3396 svchost.exe
+- 3544 svchost.exe
+- 3596 AsLdrSrv.exe
+- 3604 svchost.exe
+- 3836 spoolsv.exe
+- 3860 svchost.exe
+- 3884 svchost.exe
+- 3916 jhi_service.exe
+- 3996 svchost.exe
+- 4052 AdminService.exe
+- 4060 svchost.exe
+- 4068 esif_uf.exe
+- 4076 GiftBoxService.exe
+- 4088 svchost.exe
+- 4108 svchost.exe
+- 4212 RstMwService.exe
+- 4224 svchost.exe
+- 4236 HControl.exe
+- 4244 RtkAudUService64.exe
+- 4252 svchost.exe
+- 4276 svchost.exe
+- 4336 svchost.exe
+- 4352 svchost.exe
+- 4468 svchost.exe
+- 4584 IntelCpHeciSvc.exe
+- 4604 NisSrv.exe
+- 4692 brave.exe
+- 4800 svchost.exe
+- 4856 svchost.exe
+- 4884 MsMpEng.exe
+- 4916 svchost.exe
+- 5060 msedge.exe
+- 5076 msedge.exe
+- 5248 svchost.exe
+- 5256 svchost.exe
+- 5320 svchost.exe
+- 5468 svchost.exe
+- 5484 brave.exe
+- 5548 BraveCrashHandler.exe
+- 5624 svchost.exe
+- 5724 notepad.exe
+- 5736 dwm.exe
+- 5776 rundll32.exe
+- 5824 taskhostw.exe
+- 5844 svchost.exe
+- 5916 ATKOSD2.exe
+- 5924 svchost.exe
+- 6196 svchost.exe
+- 6292 svchost.exe
+- 6424 csrss.exe
+- 6460 SecurityHealthService.exe
+- 6596 SgrmBroker.exe
+- 6756 svchost.exe
+- 6784 StartMenuExperienceHost.exe
+- 6824 ASUSHelloBG.exe
+- 6860 svchost.exe
+- 6884 OneDrive.exe
+- 6992 svchost.exe
+- 7100 MpCopyAccelerator.exe
+- 7208 ctfmon.exe
+- 7344 brave.exe
+- 7440 UserOOBEBroker.exe
+- 7608 RtkAudUService64.exe
+- 7644 python.exe
+- 7676 svchost.exe
+- 7716 GiftBox.Agent.exe
+- 7720 svchost.exe
+- 7748 brave.exe
+- 7904 SearchIndexer.exe
+- 8144 MusNotifyIcon.exe
+- 8204 igfxEM.exe
+- 8264 CompPkgSrv.exe
+- 8296 IGCC.exe
+- 8392 dllhost.exe
+- 8532 RuntimeBroker.exe
+- 8576 svchost.exe
+- 8592 MoUsoCoreWorker.exe
+- 8704 msedge.exe
+- 8788 brave.exe
+- 8808 svchost.exe
+- 8888 python.exe
+- 8904 SecurityHealthSystray.exe
+- 8920 python.exe
+- 9284 svchost.exe
+- 9504 svchost.exe
+- 9608 ShellExperienceHost.exe
+- 9748 brave.exe
+- 9808 conhost.exe
+- 10076 smartscreen.exe
+- 10152 svchost.exe
+- 10164 MpCmdRun.exe
+- 10264 fontdrvhost.exe
+- 10328 svchost.exe
+- 10428 explorer.exe
+- 10696 svchost.exe
+- 10816 brave.exe
+- 10868 brave.exe
+- 10924 brave.exe
+- 11100 sihost.exe
+- 11120 BhcMgr.exe
+- 11216 msedge.exe
+- 11640 ApplicationFrameHost.exe
+- 12076 msedge.exe
+- 12160 TextInputHost.exe
+- 12348 svchost.exe
+- 12616 svchost.exe
+- 12640 DMedia.exe
+- 12788 svchost.exe
+- 13028 RuntimeBroker.exe
+- 13136 RuntimeBroker.exe
+- 13424 PaintStudio.View.exe
+- 13800 SystemSettingsBroker.exe
